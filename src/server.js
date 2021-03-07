@@ -32,9 +32,9 @@ const timeframe = env.STRATEGY_TIMEFRAME
 
 const nbt_vers = env.VERSION
 
-const pairs = ["BTCUSDT"] //, 'ETHBTC', 'XRPBTC', 'XRPETH']
+const pairs = ["BTCUSDT", 'ETHBTC', 'XRPBTC', 'XRPETH', 'IOTABTC', 'ENJBTC', 'ADABTC', 'ADAUDST', 'BNBBTC'. 'BNBUDST', 'ATOMBTC', 'DOTBTC', 'NEOBTC' ]
 
-const stratname = "DEMO STRATS"
+const stratname = "BVA"
 
 //////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////
